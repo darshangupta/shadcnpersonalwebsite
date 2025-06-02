@@ -17,11 +17,18 @@ export default function Home() {
               Hi, I'm <span className="text-purple-800">Darshan</span>
             </h1>
             <p className="text-lg text-muted-foreground">
-              Currently at CrowdStrike (<a href="https://www.crowdstrike.com/products/ng-siem/" className="text-blue-600 hover:underline">NG-SIEM</a>), used to work on sensor performance. Previously built <a href="https://shipodyssey.com" className="text-blue-600 hover:underline">ShipOdyssey</a>'s MVP, <a href="https://www.sentinelfertigation.com" className="text-blue-600 hover:underline">Sentinel Fertigation</a>'s sales framework, and tinder for stocks at <a href="https://www.linkedin.com/company/singh-capital/" className="text-blue-600 hover:underline">Singh Capital Partners</a>.<br />
+              Currently at CrowdStrike (<a href="https://www.crowdstrike.com/products/ng-siem/" className="text-blue-600 hover:underline">NG-SIEM</a>), used to work on sensor performance. 
+              <br />
+              <br />
+              Previously built <a href="https://shipodyssey.com" className="text-blue-600 hover:underline">ShipOdyssey</a>&apos;s MVP, <a href="https://www.sentinelfertigation.com" className="text-blue-600 hover:underline">Sentinel Fertigation</a>&apos;s sales framework, and tinder for stocks at <a href="https://www.linkedin.com/company/singh-capital/" className="text-blue-600 hover:underline">Singh Capital Partners</a>.<br />
+              <br />
+              Dishonorably discharged from <a href="https://www.instagram.com/uiuc_disruption/?hl=en" className="text-blue-600 hover:underline">dlab</a> for being too fun<br />
+              Always experimenting with dumb saas ideas<br />
               <br />
               CS @ UIUC, graduating Dec 2025.<br />
               Reach out: darshangupta [at] gmail [dot] com
             </p>
+           
            
           </div>
           <div className="flex flex-wrap gap-4 pt-4">
