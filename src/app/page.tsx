@@ -36,6 +36,9 @@ export default function Home() {
               </a>
             </Button>
           </div>
+          <div className="flex justify-center pt-6">
+            <img src="/realdog.png" alt="Dog coding meme" className="rounded-lg max-w-xs shadow-md" />
+          </div>
         </CardContent>
       </Card>
     </main>
