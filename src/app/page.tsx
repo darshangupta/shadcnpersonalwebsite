@@ -14,7 +14,7 @@ export default function Home() {
         <CardContent className="space-y-6 relative z-10">
           <div className="space-y-4">
             <h1 className="text-4xl font-bold tracking-tight">
-              Hi, I'm <span className="text-purple-800">Darshan</span>
+              Hi, I&apos;m <span className="text-purple-800">Darshan</span>
             </h1>
             <p className="text-lg text-muted-foreground">
               Currently at CrowdStrike (<a href="https://www.crowdstrike.com/products/ng-siem/" className="text-blue-600 hover:underline">NG-SIEM</a>), used to work on sensor performance. 
@@ -26,7 +26,7 @@ export default function Home() {
               Always experimenting with dumb saas ideas<br />
               <br />
               CS @ UIUC, graduating Dec 2025.<br />
-              Reach out: darshangupta [at] gmail [dot] com
+              Hit me up: 99darshangupta [at] gmail [dot] com
             </p>
            
            
