@@ -18,7 +18,7 @@ export default function Home() {
               Hi, I&apos;m <span className="text-purple-800">Darshan</span>
             </h1>
             <p className="text-lg text-muted-foreground">
-              Currently at CrowdStrike (<a href="https://www.crowdstrike.com/en-us/platform/next-gen-siem/" className="text-blue-600 hover:underline">NG-SIEM</a>), used to work on sensor performance. 
+              Currently at CrowdStrike (<a href="https://www.crowdstrike.com/en-us/platform/next-gen-siem/" className="text-blue-600 hover:underline">NG-SIEM</a>), used to work on sensor performance 
               <br />
               <br />
               Previously built <a href="https://shipodyssey.com" className="text-blue-600 hover:underline">ShipOdyssey</a>&apos;s MVP, <a href="https://www.sentinelfertigation.com" className="text-blue-600 hover:underline">Sentinel Fertigation</a>&apos;s sales framework, and tinder for stocks at <a href="https://www.linkedin.com/company/singh-capital/" className="text-blue-600 hover:underline">Singh Capital Partners</a>.<br />
