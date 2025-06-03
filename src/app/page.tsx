@@ -26,7 +26,7 @@ export default function Home() {
               Dishonorably discharged from <a href="https://www.instagram.com/uiuc_disruption/?hl=en" className="text-blue-600 hover:underline">dlab</a> for being too fun<br />
               Always experimenting with dumb saas ideas<br />
               <br />
-              CS @ UIUC, graduating Dec 2025.<br />
+              CS @ UIUC, graduating Dec 2025<br />
               Hit me up: 99darshangupta [at] gmail [dot] com
             </p>
            
