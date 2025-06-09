@@ -35,7 +35,7 @@ export default function Home() {
           <div className="flex flex-wrap gap-4 pt-4">
             <Button variant="outline" asChild>
               <a href="https://www.linkedin.com/in/darshangupta/" target="_blank" rel="noopener noreferrer">
-                LinkedIn
+                linkedIn
               </a>
             </Button>
             <Button variant="outline" asChild>
