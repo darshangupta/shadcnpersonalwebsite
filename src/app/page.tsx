@@ -40,7 +40,7 @@ export default function Home() {
             </Button>
             <Button variant="outline" asChild>
               <a href="https://github.com/darshangupta" target="_blank" rel="noopener noreferrer">
-                GitHub
+                github
               </a>
             </Button>
           </div>
