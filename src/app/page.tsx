@@ -43,6 +43,11 @@ export default function Home() {
                 github
               </a>
             </Button>
+            <Button variant="outline" asChild>
+              <a href="https://photos.app.goo.gl/9EzYnAhMbBxN9cH49" target="_blank" rel="noopener noreferrer">
+                tough or nah
+              </a>
+            </Button>
           </div>
           <div className="flex justify-center pt-6">
             <img src="/realdog.png" alt="Dog coding meme" className="rounded-lg max-w-xs shadow-md" />
