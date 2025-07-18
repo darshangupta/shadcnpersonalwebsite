@@ -45,7 +45,7 @@ export default function Home() {
             </Button>
             <Button variant="outline" asChild>
               <a href="https://photos.app.goo.gl/9EzYnAhMbBxN9cH49" target="_blank" rel="noopener noreferrer">
-                tough or nah
+                extras
               </a>
             </Button>
           </div>
