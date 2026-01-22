@@ -26,10 +26,7 @@ export default function Home() {
               <br />
               Previously built <a href="https://shipodyssey.com" className="text-blue-600 hover:underline">ShipOdyssey</a>&apos;s MVP, <a href="https://www.sentinelfertigation.com" className="text-blue-600 hover:underline">Sentinel Fertigation</a>&apos;s sales framework, and tinder for stocks at <a href="https://www.linkedin.com/company/singh-capital/" className="text-blue-600 hover:underline">Singh Capital Partners</a><br />
               <br />
-              Dishonorably discharged from <a href="https://www.instagram.com/uiuc_disruption/?hl=en" className="text-blue-600 hover:underline">dlab</a> for being too fun<br />
-              Always experimenting with dumb saas ideas<br />
-              <br />
-              CS @ UIUC, graduating Dec 2025<br />
+              CS @ UIUC, graduated Dec 2025<br />
               Hit me up: 99darshangupta [at] gmail [dot] com
             </p>
            
