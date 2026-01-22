@@ -18,7 +18,7 @@ export default function Home() {
               Hi, I&apos;m <span className="text-purple-800">Darshan</span>
             </h1>
             <p className="text-lg text-muted-foreground">
-              Incoming at Anduril Space
+              Incoming at Anduril (Space)
               <br />
               <br />
               Most recently at CrowdStrike (<a href="https://www.crowdstrike.com/en-us/platform/next-gen-siem/" className="text-blue-600 hover:underline">NG-SIEM</a>), used to work on sensor performance 
