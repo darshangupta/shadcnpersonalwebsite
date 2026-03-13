@@ -21,7 +21,7 @@ export default function Home() {
               swe @ anduril space
               <br />
               <br />
-              interned at CrowdStrike, used to work on sensor performance
+              interned at CrowdStrike (2x)
               <br />
               <br />
               Previously built ShipOdyssey&apos;s MVP, Sentinel Fertigation&apos;s sales framework, and tinder for stocks at Singh Capital Partners<br />
