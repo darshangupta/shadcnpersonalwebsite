@@ -33,9 +33,15 @@ export default function Home() {
            
           </div>
           <div className="flex flex-wrap gap-4 pt-4">
-            <Button variant="outline">linkedIn</Button>
-            <Button variant="outline">github</Button>
-            <Button variant="outline">extras</Button>
+            <Button variant="outline" asChild>
+              <a href="https://www.linkedin.com/in/darshangupta/" target="_blank" rel="noopener noreferrer">linkedIn</a>
+            </Button>
+            <Button variant="outline" asChild>
+              <a href="https://github.com/darshangupta" target="_blank" rel="noopener noreferrer">github</a>
+            </Button>
+            <Button variant="outline" asChild>
+              <a href="https://photos.app.goo.gl/9EzYnAhMbBxN9cH49" target="_blank" rel="noopener noreferrer">extras</a>
+            </Button>
           </div>
           <div className="flex justify-center pt-6">
             <img src="/realdog.png" alt="Dog coding meme" className="rounded-lg max-w-xs shadow-md" />
