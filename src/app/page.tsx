@@ -27,7 +27,7 @@ export default function Home() {
               Previously built ShipOdyssey&apos;s MVP, Sentinel Fertigation&apos;s sales framework, and tinder for stocks at Singh Capital Partners<br />
               <br />
               CS @ UIUC, graduated Dec 2025<br />
-              Hit me up: 99darshangupta [at] gmail [dot] com
+              Hit me up: dgupta2 [at] anduril [dot] com
             </p>
            
            
