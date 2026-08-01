@@ -20,14 +20,10 @@ export default function Home() {
             <p className="text-lg text-muted-foreground">
               swe @ anduril space
               <br />
+              ground systems for tracking satellites
+              <br />
               <br />
               interned at CrowdStrike (2x)
-              <br />
-              <br />
-              Previously built ShipOdyssey&apos;s MVP, Sentinel Fertigation&apos;s sales framework, and tinder for stocks at Singh Capital Partners<br />
-              <br />
-              CS @ UIUC, graduated Dec 2025<br />
-              Hit me up: dgupta2 [at] anduril [dot] com
             </p>
            
            
