@@ -43,7 +43,7 @@ export default function Home() {
             <img src="/realdog.png" alt="Dog coding meme" className="rounded-lg max-w-xs shadow-md" />
           </div>
           <p className="text-sm text-muted-foreground text-center">
-            graduated uiuc cs dec 2025
+            uiuc cs dec 2025
             <br />
             <a href="mailto:dgupta2@anduril.com" className="hover:underline">dgupta2@anduril.com</a>
           </p>
